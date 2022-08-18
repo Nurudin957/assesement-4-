@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Finish Bootcamp",
+      "time": "4 Months"
+    },
+    {
+        "id": 2,
+        "title": "Get a stable Tech Job",
+        "time": "8 Months"
+      },
+      {
+        "id": 3,
+        "title": "Do coding  Project",
+        "time": "3 Months"
+      },
+      {
+        "id": 4,
+        "title": "Make Web App",
+        "time": "12 Months"
+      },
+      {
+        "id": 5,
+        "title": "Create new Company",
+        "time": "24 Months"
+      }
+]
